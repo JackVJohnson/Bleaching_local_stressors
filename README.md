@@ -26,7 +26,7 @@ Codes run in the following order. Skip to step 6 for the analysis. The previous 
 -	Bleaching_data_new_pop.csv
 
 8.	Ecoregion_maps.R
--	ecoregion_p_values.csv and World_shape_files
+-	ecoregion_p_values.csv and Ecoregion_shape_files
 
 9.	Survey_maps.R
 -	Bleaching_data_new_pop.csv and World_shape_files
