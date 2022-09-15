@@ -1,6 +1,6 @@
 # Bleaching_local_stressors
 
-data and codes to run all the analysis requried for the paper "Local anthropogenic stress does not exacerbate coral bleaching under global climate change"
+data and codes to run all the analysis requried for the paper "Local anthropogenic stress does not exacerbate coral bleaching under global climate change" (https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13506)
 
 Codes run in the following order. Skip to step 6 for the analysis. The previous steps are data collection. 
 
